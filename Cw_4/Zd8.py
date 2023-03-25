@@ -10,8 +10,8 @@ a = np.zeros((x,z), dtype=int)
 
 print(a,"\n")
 
-k = 2
-
+k =   2
+ 
 def foo8(a):
     if(k == 1):
         if(z%2 != 0):
